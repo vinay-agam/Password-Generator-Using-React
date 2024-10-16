@@ -1,8 +1,17 @@
-# React + Vite
+# Strong Password Generator 🔐
+A highly secure and customizable Password Generator app built with React, designed to create strong, random passwords that help users enhance their online security. The app allows users to customize the password length and include special characters, numbers, and uppercase/lowercase letters for added strength.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Features:
 
-Currently, two official plugins are available:
+- Generate strong, random passwords instantly
+- Customizable options: password length, inclusion of numbers, symbols, and mixed cases
+- Password strength indicator for real-time feedback
+- Copy password to clipboard with a single click
+- Responsive design for mobile and desktop use
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Tech Stack:
+
+- React.js
+- Tailwind CSS for styling
+
+  https://vinay-agam.github.io/Password-Generator-Using-React/
